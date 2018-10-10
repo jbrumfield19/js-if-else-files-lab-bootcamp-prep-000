@@ -4,4 +4,5 @@ var index = require("./index.js")
 
 //}
 //a()
-console.log('Hello')
+function b () {console.log('Hello')}
+b()
